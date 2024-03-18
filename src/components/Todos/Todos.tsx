@@ -78,11 +78,11 @@ const Todos = () => {
           );
         })
         .then((data) => {
-          setIsLoading(false);
+          setIsLoading(false); // Stop loading response received
           console.log("success =========>", data);
         })
         .catch((error) => {
-          setIsLoading(false);
+          setIsLoading(false); // Stop loading in case of error
           console.error("error =========>", error);
         });
       return newTodos;
