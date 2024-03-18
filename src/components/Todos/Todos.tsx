@@ -7,7 +7,6 @@ const Todos = () => {
   const currentDate = new Date();
 
   const [todos, setTodos] = useState([]);
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [isLoading, setIsLoading] = useState(false);
 
   /**
