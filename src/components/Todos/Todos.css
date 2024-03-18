@@ -1,11 +1,9 @@
 .todo-cards .row {
     align-items: center;
 }
-.loading-state .spinner-border {
-    left: 50%;
-    top: 50%;
+.loading-state {
+    padding: 10px;
     text-align: center;
-    position: absolute;
 }
 
 .date-text {
