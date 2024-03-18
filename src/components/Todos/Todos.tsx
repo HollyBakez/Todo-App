@@ -123,7 +123,7 @@ const Todos = () => {
           })
           .map((todo) => {
             return (
-              <Card style={{ background: "#FF7F7F" }} className="mt-3">
+              <Card style={{ background: "#f9cecd" }} className="mt-3">
                 <Row>
                   <Col>
                     <Card.Body>
@@ -182,7 +182,7 @@ const Todos = () => {
           })
           .map((todo) => {
             return (
-              <Card className="mt-3">
+              <Card style={{ background: "#f3f3f3" }} className="mt-3">
                 <Row>
                   <Col>
                     <Card.Body>
@@ -240,7 +240,7 @@ const Todos = () => {
           })
           .map((todo) => {
             return (
-              <Card style={{ background: "#90ee90" }} className="mt-3">
+              <Card style={{ background: "#d5fdcf" }} className="mt-3">
                 <Row>
                   <Col>
                     <Card.Body>
