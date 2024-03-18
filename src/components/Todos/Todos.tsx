@@ -80,7 +80,7 @@ const Todos = () => {
         })
         .then((data) => {
           setIsLoading(false);
-          console.log(data);
+          console.log("success =========>", data);
         })
         .catch((error) => {
           setIsLoading(false);

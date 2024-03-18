@@ -31,8 +31,32 @@
   },
   {
     "id": "6",
-    "description": "Run LA marathon",
+    "description": "Complete Takehome assignment",
     "isComplete": false,
-    "dueDate": "2021-03-21T13:30:00.000Z"
+    "dueDate": "2024-03-17T13:30:00.000Z"
+  },
+  {
+    "id": "7",
+    "description": "Feed the Dog",
+    "isComplete": true,
+    "dueDate": "2024-03-19T17:50:44.673Z"
+  },
+  {
+    "id": "8",
+    "description": "Cook Dinner",
+    "isComplete": true,
+    "dueDate": null
+  },
+  {
+    "id": "9",
+    "description": "Study",
+    "isComplete": false,
+    "dueDate": "2024-06-26T19:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "description": "Swim the pet fish",
+    "isComplete": false,
+    "dueDate": null
   }
 ]
